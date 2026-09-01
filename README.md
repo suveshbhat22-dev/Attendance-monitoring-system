@@ -207,9 +207,6 @@ Run the application:
 
 python app.py
 
-Conclusion
-
-The Attendance Monitoring System with Email Notifications provides an efficient digital solution for managing student attendance. By combining attendance tracking, automated email notifications, reporting, and optional machine learning-based attendance analysis, the system can help educational institutions improve attendance management and keep students informed about their attendance status.
 
 Connect Me
 
